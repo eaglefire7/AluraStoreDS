@@ -1,9 +1,9 @@
 # AluraStoreDS
 Análise de Vendas e Desempenho de Lojas  Este projeto Python analisa dados de vendas de múltiplas lojas para identificar categorias de produtos, desempenho de produtos (mais e menos vendidos) e métricas financeiras por loja, incluindo frete médio e participação na receita total. Utiliza Matplotlib para visualizações gráficas.
 
-Análise de Desempenho de Vendas Multi-Lojas (Python Puro)
+Análise de Desempenho de Vendas Multi-Lojas
 
-Este projeto em Python Puro (sem Pandas) oferece uma análise de dados de vendas de 4 lojas, com foco em:
+Este projeto em Python utilizando ora biblioteca pandas ora python puro, oferece uma análise de dados de vendas de 4 lojas, com foco em:
 
 📈 Insights Financeiros:
 
