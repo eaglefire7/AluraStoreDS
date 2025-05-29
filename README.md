@@ -17,7 +17,7 @@ Este projeto Python analisa dados de vendas de 4 lojas lojas para identificar ca
 <img src="AluraStore/Média de Avaliação por Loja.png" alt="Faturamento por Loja" width="350"/>
 </p>
 
-##💲Produtos Mais e Menos Vendidos
+## 💲Produtos Mais e Menos Vendidos
 <p align = "center">
 <img src="AluraStore/TOP 3 Produtos Mais e Menos Vendidos por Loja.png" alt="Faturamento por Loja" width="350"/>
 </p>
