@@ -4,7 +4,7 @@ Este projeto Python analisa dados de vendas de 4 lojas lojas para identificar ca
 
 ## 📊 Análise de Vendas e Desempenho de Lojas - Faturamento Por Loja
 <p align = "center">
-<img src="AluraStore/Frete Médio por Loja.png" alt="Faturamento por Loja" width="350"/>
+<img src="AluraStore/Receita Total por Loja.png" alt="Faturamento por Loja" width="350"/>
 </p>
 
 ## 🛍️ Vendas por Categoria (Todas as Lojas)
