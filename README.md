@@ -11,14 +11,17 @@ Este projeto Python analisa dados de vendas de 4 lojas lojas para identificar ca
 <p align = "center">
 <img src="AluraStore/Vendas Totais por Categoria.png" alt="Faturamento por Loja" width="350"/>
 </p>
+
 ## ☆ Média de Avaliação das Lojas
 <p align = "center">
 <img src="AluraStore/Média de Avaliação por Loja.png" alt="Faturamento por Loja" width="350"/>
 </p>
-## 💲Produtos Mais e Menos Vendidos
+
+##💲Produtos Mais e Menos Vendidos
 <p align = "center">
 <img src="AluraStore/TOP 3 Produtos Mais e Menos Vendidos por Loja.png" alt="Faturamento por Loja" width="350"/>
 </p>
+
 ## 🚚 Frete Médio por Loja
 <p align = "center">
 <img src="AluraStore/Frete Médio por Loja.png" alt="Faturamento por Loja" width="350"/>
