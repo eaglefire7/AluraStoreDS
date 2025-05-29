@@ -41,11 +41,11 @@ Fretes Médios por Loja
 - **Vender a Loja 4 e investir nas categorias de eletronicos e eletrodomesticos, que são as mais rentáveis em todas as lojas.**
 - **As categorias eletrônicos e eletrodomésticos são as mais rentáveis, representando juntas mais de 60% do faturamento total.**
 - **Avaliação Mediana: A média de avaliação da Loja 4 (4.00) é ligeiramente superior à da Loja 1 (3.98), mas inferior à das Lojas 2 (4.04) e 3 (4.05). Isso sugere que a experiência do cliente, embora razoável, não se destaca.**
-- 
+  
 ## ✅ Conclusão
 - **A Loja 4 apresentou o pior desempenho nos critérios de faturamento e avaliação. Portanto, recomenda-se a sua venda e o valor seja reinvestido nas lojas 1,2 e 3.**
 
-- 
+  
 ## 🚀 Como Executar o Notebook 
 
 Você pode executar este projeto no Google Colab ou Jupyter Notebook. Os dados das tabelas estão disponíveis nos seguintes links:
