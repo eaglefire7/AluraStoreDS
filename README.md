@@ -9,13 +9,13 @@ Análise do total de faturamento de cada loja, considerando todos os pedidos rea
 </p>
 
 ## 🛍️ Vendas por Categoria (Todas as Lojas)
-FATURAMENTO TOTAL GERAL DE TODAS AS LOJAS:
+Faturamento Total Geral de Todas as Lojas:
 <p align = "center">
 <img src="AluraStore/Vendas Totais por Categoria.png" alt="Faturamento por Loja" width="350"/>
 </p>
 
 ## ☆ Média de Avaliação das Lojas
-MÉDIAS DE AVALIAÇÃO POR LOJA:
+Média de Avaliação por Loja:
 <p align = "center">
 <img src="AluraStore/Média de Avaliação por Loja.png" alt="Faturamento por Loja" width="350"/>
 </p>
